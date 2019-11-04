@@ -1,7 +1,5 @@
 var gulp = require('gulp');
 
-gulp.task('Starting...', function() {
-    console.log("Hello World");
+gulp.task('start', function() {
+    console.log("Hello, starting...");
 });
-
-// Gulp task to minify javascript
