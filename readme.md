@@ -200,8 +200,8 @@ The class is formed as block's or element's name plus two dashes.
 
 ##### HTML
 
-- Modifier is an extra class anme which you add to a block / element
-- Keep the orginal class
+- Modifier is an extra class nanme which you add to a block / element
+- Keep the original class
 
 ```
 <div class="block block--mod">...</div>
