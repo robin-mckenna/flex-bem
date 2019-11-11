@@ -5,7 +5,10 @@
     <title>Flex Bem</title>
     <link href="https://fonts.googleapis.com/css?family=Fira+Code&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/add-image.js" charset="utf-8"></script>
+    <!-- Include script ? -->
+    <link rel="stylesheet" href="public/css/home-page.css">
+    <link rel="stylesheet" href="stylesheets/global-styles.css">
   </head>
   <body>
     <header class="header">
@@ -57,5 +60,17 @@
         <img src="https://source.unsplash.com/random/200x100"/>
       </div>
     </div>
+    <div class="inputdiv">
+      <input id="addimage" type="button" name="addimage" value="Add Image" class="inputdiv__addimage"/>
+    </div>
+    <!-- Not using BEM -->
+    <section class="favourite-sites">
+      <h1>Favourite Websites</h1>
+      <ul>
+        <li><a href="http://wwww.google.com">Google</a></li>
+        <li><a href="http://wwww.twitter.com">Twitter</a></li>
+        <li><a href="http://wwww.reddit.com">Reddit</a></li>
+      </ul>
+  </section>
   </body>
 </html>

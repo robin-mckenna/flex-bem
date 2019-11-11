@@ -1,0 +1,24 @@
+{
+  "name": "slp-flex-bem",
+  "version": "1.0.0",
+  "description": "This is a mini project that showcases the box model, flexbox and BEM (block element modifier)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin-mckenna/flex-bem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robin-mckenna/flex-bem/issues"
+  },
+  "homepage": "https://github.com/robin-mckenna/flex-bem#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.0"
+  }
+}

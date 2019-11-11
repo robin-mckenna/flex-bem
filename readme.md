@@ -210,3 +210,18 @@ The class is formed as block's or element's name plus two dashes.
 ##### CSS
 
 `.block--hidden { }`
+
+## Setup
+
+**Prerequisites:**
+
+- Install node
+- Install npm
+- Install gulp globally
+    - `npm install --global gulp-cli`
+
+### Installing packages
+
+> `npm install pluginName --save-dev`
+
+1.  `npm install`
