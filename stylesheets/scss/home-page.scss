@@ -1,0 +1,24 @@
+$headerColour: #5159ae;
+$bulletColour: #FF6600;
+$bulletTextColour: 	#FF0000;
+
+.favourite-sites {
+
+  h1 {
+    color: $headerColour;
+  }
+
+  ul {
+    li {
+      color: $bulletColour;
+      padding: 8px;
+
+      a {
+        color: $bulletTextColour;
+        text-decoration: none;
+
+      }
+
+    }
+  }
+}
