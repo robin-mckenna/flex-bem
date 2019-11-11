@@ -1,0 +1,13 @@
+.favourite-sites h1 {
+  color: #5159ae;
+}
+
+.favourite-sites ul li {
+  color: #FF6600;
+  padding: 8px;
+}
+
+.favourite-sites ul li a {
+  color: #FF0000;
+  text-decoration: none;
+}
