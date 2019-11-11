@@ -1,6 +1,8 @@
 # Flex-Bem
 
-This is a mini project that showcases the box model, flexbox and BEM (block element modifier)
+[SCSS Introduction](docs/scss.md)
+
+This is a mini project that showcases the box model, flexbox, BEM (block element modifier) and scss.
 
 ![image](https://user-images.githubusercontent.com/51911441/68110559-26986c00-fee5-11e9-9818-dc55079bd24d.png)
 
