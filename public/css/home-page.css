@@ -11,3 +11,12 @@
   color: #FF0000;
   text-decoration: none;
 }
+
+.favourite-sites .google {
+  height: 70px;
+}
+
+.favourite-sites .twitter {
+  margin: 0;
+  padding: 0;
+}
